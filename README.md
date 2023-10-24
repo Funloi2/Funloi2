@@ -4,17 +4,28 @@
 
 💻 I'm a polyglot programmer with a strong command of multiple languages:
 
+
 Python 🐍
+
 PHP 🐘
+
 Java ☕
+
 C# 🎯
+
+
 
 🛠️ I'm experienced with various frameworks and technologies, including:
 
 Angular 🅰️
+
 React ⚛️
+
 Symfony 🚀
+
 ASP.NET 🔵
+
+
 🌐 I'm passionate about open source development and enjoy sharing my knowledge and expertise with the global tech community.
 
 🚀 My GitHub is a hub for my coding projects, where I create, collaborate, and contribute to open-source software.
