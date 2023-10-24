@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hello, I'm Charles-Edouard
 
-<!--
-**Funloi2/Funloi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I hold a degree in Information Technology and I'm currently pursuing a master's degree in the same field.
 
-Here are some ideas to get you started:
+💻 I'm a polyglot programmer with a strong command of multiple languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python 🐍
+PHP 🐘
+Java ☕
+C# 🎯
+🛠️ I'm experienced with various frameworks and technologies, including:
+
+Angular 🅰️
+React ⚛️
+Symfony 🚀
+ASP.NET 🔵
+🌐 I'm passionate about open source development and enjoy sharing my knowledge and expertise with the global tech community.
+
+🚀 My GitHub is a hub for my coding projects, where I create, collaborate, and contribute to open-source software.
+
+💡 If you share an interest in any of these technologies, or if you'd like to collaborate on exciting projects, feel free to reach out! Let's connect and innovate together.
