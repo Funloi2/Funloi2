@@ -1,6 +1,6 @@
 👋 Hello, I'm Charles-Edouard
 
-🎓 I hold a degree in Information Technology and I'm currently pursuing a master's degree in the same field.
+🎓 I hold master's degree in System and Network Engineering Architect
 
 💻 I'm a polyglot programmer with a strong command of multiple languages:
 
